@@ -1,1 +1,1 @@
-include ':app', ':libmio'
+include ':library'
